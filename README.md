@@ -3,6 +3,9 @@
 
 
 Una calculadora basica hecha con:
+
 *HTML
+
 *JavaScript
+
 *CSS 
